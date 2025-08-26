@@ -9,7 +9,6 @@
 
 ## 🚀 Projects
 - [Asteroids Clone](https://github.com/Lurppino/OOP---programming/tree/main/Csharp%20-%20dotNEt/ASTEROIDS)
-- 
 - [Component library](https://github.com/Lurppino/OOP---programming/tree/main/Csharp%20-%20dotNEt/Komponentti%20kirjasto/LukaLib)
 - A custom library used in Asteroids for handling components.
 
