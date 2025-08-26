@@ -11,7 +11,7 @@
 - [Asteroids Clone](https://github.com/Lurppino/OOP---programming/tree/main/Csharp%20-%20dotNEt/ASTEROIDS)
 - [Component library](https://github.com/Lurppino/OOP---programming/tree/main/Csharp%20-%20dotNEt/Komponentti%20kirjasto/LukaLib)
 - A custom library used in Asteroids for handling components.
-- [HTML Projects showcase]([https://public.bc.fi/s2300936](https://public.bc.fi/s2300936/HTML%20O))
+- [HTML Projects showcase](https://public.bc.fi/s2300936/HTML%20O)
 - Collection of old school projects made with HTML/CSS
 
 ## 📫 Contact
