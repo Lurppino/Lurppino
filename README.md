@@ -13,7 +13,7 @@
 - A custom library used in Asteroids for handling components.
 - [HTML Projects showcase](https://public.bc.fi/s2300936/HTML%20O)
 - Collection of old school projects made with HTML/CSS
-- [Fruit Ninja copy with crates]([https://public.bc.fi/s2300936/Create%20with%20Code/prototype%205](https://public.bc.fi/s2300936/Create%20with%20Code/prototype%205/Build)
+- [Fruit Ninja copy with crates](https://public.bc.fi/s2300936/Create%20with%20Code/prototype%205/Build)
 - Fruit Ninja type game but with crates you have to click
 
 ## 📫 Contact
