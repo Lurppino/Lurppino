@@ -15,7 +15,7 @@
   -- Collection of old school projects made with HTML/CSS
 - [WebGL Fruit Ninja game](https://public.bc.fi/s2300936/Create%20with%20Code/prototype%205/Build)
   -- School tutorial project made with Unity
-  [Team Project for school](https://public.bc.fi/s2300936/Rapid%20Proto%20Projektit/Proto%201/Ferret%20Proto%201%20valmis)
+- [Team Project for school](https://public.bc.fi/s2300936/Rapid%20Proto%20Projektit/Proto%201/Ferret%20Proto%201%20valmis)
   -- Made both maps, player animation and so that doors work
 
 ## 📫 Contact
