@@ -18,6 +18,8 @@
   -- Unity school project. Simple fruit ninja type game where you click boxes
 - [Team Project for school](https://public.bc.fi/s2300936/Rapid%20Proto%20Projektit/Proto%201/Ferret%20Proto%201%20valmis)
   -- Platformer with Otters and Ferrets in a Victorian-era mansion. Designed maps, player animation, and functional doors. Completed in 2 weeks.
+- [Pong game](https://lurppino.itch.io/pong)
+  -- Fun pong game made with C# and raylib.
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/lukaulmanen) 
